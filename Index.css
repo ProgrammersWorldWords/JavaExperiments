@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:#262626;
+    background-image: lineargradiant(red,green);
+}
+h1{
+    margin:20px;
+}
+.StartButton
+{   
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: 1s;
+    box-shadow: 0 0 100px #00fff5,inset 0 0 0px #00fff5;
+}
+
+.Html5
+{   
+    position: absolute;
+    top: 10%;
+    left:15%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px #00fff5,inset 0 0 0px #00fff5;
+}
+.JavaScript
+{   
+    position: absolute;
+    top: 10%;
+    left:47.5%;
+    transform: translate(-50%,-50%);
+    width:500px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px #00fff5,inset 0 0 0px #00fff5;
+}
+
+
+
+.Css3
+{   
+    position: absolute;
+    top: 10%;
+    left:80%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px #00fff5,inset 0 0 0px #00fff5;
+}
+
+
+.Php
+{   
+    position: absolute;
+    top: 30%;
+    left:35%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px  #00fff5,inset 0 0 0px #00fff5;
+}
+.MySql
+{   
+    position: absolute;
+    top: 30%;
+    left:60%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px  #00fff5,inset 0 0 0px #00fff5;
+}
+
+.C
+{   
+    position: absolute;
+    top: 90%;
+    left:20%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px  #00fff5,inset 0 0 0px #00fff5;
+}
+
+.Cplusplus
+{   
+    position: absolute;
+    top: 90%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px  #00fff5,inset 0 0 0px #00fff5;
+}
+
+
+
+.Csharp
+{   
+    position: absolute;
+    top: 90%;
+    left:80%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px  #00fff5,inset 0 0 0px #00fff5;
+}
+
+.Java
+{   
+    position: absolute;
+    top: 70%;
+    left:63%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+        transition: .5s;
+    box-shadow: 0 0 10px #00fff5,inset 0 0 0px #00fff5;
+}
+
+.Python
+{   
+    position: absolute;
+    top: 70%;
+    left:35%;
+    transform: translate(-50%,-50%);
+    width:300px;
+    height: 50px;
+    background:;
+    border: 4px solid #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    text-align: center;
+    line-height: 10px;
+    border-radius:50px;
+    text-transform: uppercase;
+    font-family: Sans-Serif;
+    overflow: hidden;
+    transition: .5s;
+    box-shadow: 0 0 10px  #00fff5,inset 0 0 0px #00fff5;
+}
+
+.LeftSide
+{   
+    position: absolute;
+    top:50%;
+    left:13%;
+    transform: translate(-50%,-50%);
+    width:250px;
+    height:300px;
+    background:;
+    border: 4px dashed  #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    border-radius:50px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 0 0px  #00fff5,inset 0 0 40px #00fff5;
+}
+
+li{
+    margin-left:10px;
+    text-align:center;
+    font-size: 15px;
+}
+.RightSide
+{   
+    position: absolute;
+    top: 50%;
+    left:85%;
+    transform: translate(-50%,-50%);
+    width:250px;
+    height: 300px;
+    border: 4px dotted  #00fff5;
+    font-size: 20px;
+    color:#00fff5;
+    border-radius:50px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 0 0 0px  #00fff5,inset 0 0 40px #00fff5;
+}
